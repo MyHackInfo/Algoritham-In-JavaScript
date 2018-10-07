@@ -1,3 +1,3 @@
-# Algoritham-In-JavaScript
-I write some Algoritham Using JavaScript.
-All Algoritham are Basic. 
+# Algorithm-In-JavaScript
+I write some Algorithm Using JavaScript.
+All Algorithm are Basic. 
